@@ -46,7 +46,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ma
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\massi\.gradle\caches\transforms-2\files-2.1\4507a9663a4b6bb33216cdaabd221fc0\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:10:9-55
+		ADDED from C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:10:9-34
 	android:icon
 		ADDED from C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:11:9-43
 	android:name

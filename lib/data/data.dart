@@ -3,7 +3,7 @@ import 'package:flutter_facebook_responsive_ui/models/models.dart';
 final User currentUser = User(
   name: 'Daffy',
   imageUrl:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVY2lHJIbXMCTcFnxiGeTAphCcGMrCrkntg&usqp=CAU',
+      'https://images-na.ssl-images-amazon.com/images/I/51Dc4sxeu5L._AC_SL1000_.jpg',
 );
 
 final List<User> onlineUsers = [

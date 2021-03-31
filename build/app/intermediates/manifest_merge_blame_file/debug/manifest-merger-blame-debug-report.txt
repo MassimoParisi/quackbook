@@ -30,8 +30,8 @@
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 26-->C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:11:9-43
-27        android:label="flutter_facebook_responsive_ui" >
-27-->C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:10:9-55
+27        android:label="QuackBook" >
+27-->C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:10:9-34
 28        <activity
 28-->C:\Users\massi\GitHub\quackbook\android\app\src\main\AndroidManifest.xml:12:9-40:20
 29            android:name="com.example.flutter_facebook_responsive_ui.MainActivity"
