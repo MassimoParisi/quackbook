@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/moondry/Projects/flutter/flutter_facebook_responsive_ui-starter-project/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "C:\\Users\\massi\\GitHub\\quackbook\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "/home/moondry/.gradle/caches/transforms-2/files-2.1/4507a9663a4b6bb33216cdaabd221fc0/core-1.1.0/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\massi\\.gradle\\caches\\transforms-2\\files-2.1\\4507a9663a4b6bb33216cdaabd221fc0\\core-1.1.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
