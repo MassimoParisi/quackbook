@@ -136,29 +136,29 @@ final List<Story> stories = [
         'https://cdn.shopify.com/s/files/1/0635/5953/products/duck-soup-final_large.jpg?v=1446215284',
   ),
   Story(
-    user: onlineUsers[2],
+    user: onlineUsers[15],
     imageUrl:
         'https://i.pinimg.com/474x/97/54/9a/97549a5470dd211b440a21b3512952fa.jpg',
   ),
   Story(
-    user: onlineUsers[6],
+    user: onlineUsers[5],
     imageUrl:
-        'http://looneyverse.andrewmarini.it/wp-content/uploads/sites/3/2020/03/fantastic.jpg',
+        'https://media-cache.cinematerial.com/p/500x/ajjkdfbi/daffy-ducks-movie-fantastic-island-czech-dvd-movie-cover.jpg?v=1456419267',
     isViewed: true,
   ),
   Story(
-    user: onlineUsers[3],
+    user: onlineUsers[8],
     imageUrl:
         'https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Dthree_the_mighty_ducks.jpg/220px-Dthree_the_mighty_ducks.jpg',
   ),
   Story(
-    user: onlineUsers[9],
+    user: onlineUsers[4],
     imageUrl:
         'https://i0.wp.com/www.comicsuniverse.it/wp-content/uploads/2016/11/deadpool-the-duck-1-cover-214203.jpg?fit=655%2C1007&ssl=1',
     isViewed: true,
   ),
   Story(
-    user: onlineUsers[7],
+    user: onlineUsers[10],
     imageUrl:
         'https://i.pinimg.com/236x/da/c7/30/dac730a2821b44eafc5981d1106da8c3--the-duck-comic-books.jpg',
   ),

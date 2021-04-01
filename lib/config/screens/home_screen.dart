@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/config/palette.dart';
 import 'package:flutter_facebook_responsive_ui/data/data.dart';
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 import 'package:flutter_facebook_responsive_ui/widgets/circle_button.dart';
@@ -14,11 +13,11 @@ class HomeScreen extends StatelessWidget {
         slivers: [
           SliverAppBar(
             brightness: Brightness.light,
-            backgroundColor: Colors.white,
+            backgroundColor: Colors.yellow.shade100,
             title: Text(
               'quackbook',
               style: TextStyle(
-                color: Colors.yellow.shade700,
+                color: Colors.yellow.shade900,
                 fontSize: 28.0,
                 fontWeight: FontWeight.bold,
                 letterSpacing: -1.2,
@@ -32,7 +31,7 @@ class HomeScreen extends StatelessWidget {
                   iconSize: 30.0,
                   onPressed: () => print("SEARCH")),
               CircleButton(
-                  icon: MdiIcons.facebookMessenger,
+                  icon: MdiIcons.messageText,
                   iconSize: 30.0,
                   onPressed: () => print("MESSANGER"))
             ],

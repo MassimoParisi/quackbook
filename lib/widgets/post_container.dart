@@ -1,6 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/config/palette.dart';
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 import 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
@@ -121,7 +120,7 @@ class _PostStats extends StatelessWidget {
             Container(
               padding: EdgeInsets.all(4.0),
               decoration: BoxDecoration(
-                color: Palette.facebookBlue,
+                color: Colors.yellow.shade900,
                 shape: BoxShape.circle,
               ),
               child: Icon(

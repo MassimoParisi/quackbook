@@ -43,7 +43,7 @@ class CreatePostContainer extends StatelessWidget {
                     onPressed: () => print("LIVE"),
                     icon: const Icon(
                       Icons.videocam,
-                      color: Colors.red,
+                      color: Colors.orangeAccent,
                     ),
                     label: Text("Live"),
                   ),
@@ -52,7 +52,7 @@ class CreatePostContainer extends StatelessWidget {
                     onPressed: () => print("PHOTO"),
                     icon: const Icon(
                       Icons.photo_library,
-                      color: Colors.green,
+                      color: Colors.orangeAccent,
                     ),
                     label: Text("Photo"),
                   ),
@@ -60,10 +60,10 @@ class CreatePostContainer extends StatelessWidget {
                   FlatButton.icon(
                     onPressed: () => print("ROOM"),
                     icon: const Icon(
-                      Icons.video_call,
-                      color: Colors.purpleAccent,
+                      Icons.anchor,
+                      color: Colors.orangeAccent,
                     ),
-                    label: Text("Room"),
+                    label: Text("Raft"),
                   ),
                 ],
               ),
